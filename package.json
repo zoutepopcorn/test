@@ -1,0 +1,19 @@
+{
+  "name": "wifi-db",
+  "version": "1.0.6",
+  "description": "t",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "“Johan <“xxxxx@xxxxx.com”>",
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/zoutepopcorn/wifi-db/issues"
+  },
+  "homepage": "https://github.com/zoutepopcorn/wifi-db#readme",
+  "dependencies": {
+    "git-sync": "^1.1.1"
+  }
+}
